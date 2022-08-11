@@ -6,6 +6,9 @@ prerequisite :
 
 2.When PITR restore alternative drive needs to have enough space for restore the backup 
 
+3.Make Sure Restoring New Database not connected or used anywhere in SSMS/Application Side 
+
+
 Passing Parameter Values : 
 
 @DatabaseOLDName              - Corrupted/Data Loss Database Name
